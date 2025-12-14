@@ -17,4 +17,4 @@ Palec ukazuje směr magnetického pole uvnitř cívky
 Směr palce zároveň určuje severní pól cívky
 
 # Kdo to vynalez?
-
+Teslovy cívky jsou zařízení, která slouží k vytváření velmi vysokého napětí a vysokofrekvenčního střídavého proudu. Vynalezl je Nikola Tesla na konci 19. století. Skládají se z primární a sekundární cívky, které jsou naladěny na stejnou rezonanční frekvenci. Díky elektromagnetické indukci a rezonanci dochází k výraznému zvýšení napětí v sekundární cívce. Teslovy cívky se používají hlavně k demonstračním účelům a ve výuce fyziky.
