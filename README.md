@@ -1,4 +1,4 @@
-# Rocnikovy-Projekt-Teslova-civka
+# Ročnikový-Projekt-Teslova-cívka
 
 #  Zadání projektu: Teslova cívka – Ověření pravidla pravé ruky a bezdrátový přenos energie
 
