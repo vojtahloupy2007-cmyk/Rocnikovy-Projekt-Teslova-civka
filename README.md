@@ -25,3 +25,4 @@ Směr palce zároveň určuje severní pól cívky
 - Rezistor 22k
 - Draty
 - Civku-Specialný smaltovaný drát
+-chladič pro Tranzistor![1000001539](https://github.com/user-attachments/assets/13f8a7b9-c0c9-4a5f-a332-8bae98efa7f3)
