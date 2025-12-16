@@ -28,11 +28,17 @@ Směr palce zároveň určuje severní pól cívky
 - Tranzistor 2N2222 ![1000001545](https://github.com/user-attachments/assets/d3c745bb-469b-424a-86bc-e6e689063d3b)
 - Rezistor 22k![1000001546](https://github.com/user-attachments/assets/7e2bb6a2-fcf8-4d78-90fa-e04e817f69e1)
 - Civku-Specialný smaltovaný drát![1000001541](https://github.com/user-attachments/assets/b11509e9-cfd1-4839-bf8f-166e2aff703b)
--chladič pro Tranzistor![1000001539](https://github.com/user-attachments/assets/13f8a7b9-c0c9-4a5f-a332-8bae98efa7f3)
--přípojka samice na 12V![1000001542 (1)](https://github.com/user-attachments/assets/c3d523d3-d043-4eef-8e52-b6b28330aee5)
--Alobarová koule![1000001537](https://github.com/user-attachments/assets/10fc18da-24fa-47b9-b1e9-9073a569e8b2)
--Draty na připojení
+- chladič pro Tranzistor![1000001539](https://github.com/user-attachments/assets/13f8a7b9-c0c9-4a5f-a332-8bae98efa7f3)
+- přípojka samice na 12V![1000001542 (1)](https://github.com/user-attachments/assets/c3d523d3-d043-4eef-8e52-b6b28330aee5)
+- Alobarová koule![1000001537](https://github.com/user-attachments/assets/10fc18da-24fa-47b9-b1e9-9073a569e8b2)
+- Draty na připojení
 -Paječka
 - vypínač ON OFF ON
 # Schema zapojeni Teslovi cívky 
 <img width="3072" height="4080" alt="image" src="https://github.com/user-attachments/assets/3f2a0b36-4412-4b06-bb21-f037c6998c79" />
+
+# Jak funguje ?
+- Teslova cívka napájená 12 V funguje tak, že nízké napětí je nejprve pomocí elektronického obvodu (např. tranzistoru ) přeměněno na vysokofrekvenční střídavý proud. Tento proud prochází primární cívkou a vytváří proměnné magnetické pole. Magnetické pole indukuje proud v sekundární cívce, která má mnohem více závitů, čímž se napětí výrazně zvýší. Díky rezonanci mezi cívkami může napětí dosahovat velmi vysokých hodnot i při nízkém vstupním napětí. Výsledkem jsou viditelné elektrické výboje, přestože zdroj má pouze 12 V.
+
+# Závěr 
+- projetk ještě není hotov a používalsem chatgtp k psaní  a  Inspirace na yotube od @rbelectrical
