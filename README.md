@@ -33,6 +33,6 @@ Směr palce zároveň určuje severní pól cívky
 -Alobarová koule![1000001537](https://github.com/user-attachments/assets/10fc18da-24fa-47b9-b1e9-9073a569e8b2)
 -Draty na připojení
 -Paječka
-
+- vypínač ON OFF ON
 # Schema zapojeni Teslovi cívky 
 <img width="3072" height="4080" alt="image" src="https://github.com/user-attachments/assets/3f2a0b36-4412-4b06-bb21-f037c6998c79" />
