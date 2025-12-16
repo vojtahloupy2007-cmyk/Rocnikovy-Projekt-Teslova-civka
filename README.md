@@ -27,3 +27,7 @@ Směr palce zároveň určuje severní pól cívky
 -chladič pro Tranzistor![1000001539](https://github.com/user-attachments/assets/13f8a7b9-c0c9-4a5f-a332-8bae98efa7f3)
 -přípojka samice na 12V![1000001542 (1)](https://github.com/user-attachments/assets/c3d523d3-d043-4eef-8e52-b6b28330aee5)
 -Alobarová koule![1000001537](https://github.com/user-attachments/assets/10fc18da-24fa-47b9-b1e9-9073a569e8b2)
+-Draty na připojení
+-Paječka
+
+# Schema zapojeni Teslovi cívky 
