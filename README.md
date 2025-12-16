@@ -1,7 +1,8 @@
-# Ročnikový-Projekt-Teslova-cívka![Uploading 1000001543.jpg…]()
+# Ročnikový-Projekt-Teslova-cívka
 
 
-#  Zadání projektu: Teslova cívka – Ověření pravidla pravé ruky a bezdrátový přenos energie
+#  Zadání projektu: Teslova cívka – Ověření pravidla pravé ruky a bezdrátový přenos energie<img width="3072" height="4080" alt="image" src="https://github.com/user-attachments/assets/99e69670-852e-4c61-89ff-4bdd9f59a5a7" />
+
 
 ##  Cíl projektu
 Cílem projektu je:
