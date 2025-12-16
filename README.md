@@ -41,4 +41,4 @@ Směr palce zároveň určuje severní pól cívky
 - Teslova cívka napájená 12 V funguje tak, že nízké napětí je nejprve pomocí elektronického obvodu (např. tranzistoru ) přeměněno na vysokofrekvenční střídavý proud. Tento proud prochází primární cívkou a vytváří proměnné magnetické pole. Magnetické pole indukuje proud v sekundární cívce, která má mnohem více závitů, čímž se napětí výrazně zvýší. Díky rezonanci mezi cívkami může napětí dosahovat velmi vysokých hodnot i při nízkém vstupním napětí. Výsledkem jsou viditelné elektrické výboje, přestože zdroj má pouze 12 V.
 
 # Závěr 
-- projetk ještě není hotov a používalsem chatgtp k psaní  a  Inspirace na yotube od @rbelectrical
+- projetk ještě není hotov a používal sem chatgtp k psaní  a  Inspirace na yotube od @rbelectrical
