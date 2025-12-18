@@ -41,4 +41,5 @@ Směr palce zároveň určuje severní pól cívky
 - Teslova cívka napájená 12 V funguje tak, že nízké napětí je nejprve pomocí elektronického obvodu (např. tranzistoru ) přeměněno na vysokofrekvenční střídavý proud. Tento proud prochází primární cívkou a vytváří proměnné magnetické pole. Magnetické pole indukuje proud v sekundární cívce, která má mnohem více závitů, čímž se napětí výrazně zvýší. Díky rezonanci mezi cívkami může napětí dosahovat velmi vysokých hodnot i při nízkém vstupním napětí. Výsledkem jsou viditelné elektrické výboje, přestože zdroj má pouze 12 V.
 
 # Závěr 
-- projetk ještě není hotov a používal sem chatgtp k psaní  a  Inspirace na yotube od @rbelectrical
+- projetk ještě není hotov a používal sem chatgtp k psaní  a  Inspirace na yotube od @rbelectrical je to DIY Projekt přidalsem tam vypínač  ON OFF ON místo tam byl obyčejný vypínač ON OFF a proč tam není?
+- Kvůli zapojeni do sítě když zapnu do sitě tak se vypínač bude poloze ze je v nefunkční stavu a svítí červené tlačítko a když dam do polohy ON tak se vypne červene světlo a cívka bude v provozů. 
