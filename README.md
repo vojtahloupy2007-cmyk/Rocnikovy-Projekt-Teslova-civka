@@ -13,6 +13,43 @@ Cílem projektu je:
 - Postavit Teslovu cívku
 
 
+
+# Bezpečnost práce při práci s Teslovou cívkou
+-Používase se zejména k demonstračním a výukovým účelům ve školách,laboratořích nebo na veřejných prezentacích.Vzhledem k vysokému napětí a elektromagnetickému záření představuje významná rizika,a proto je nutné dodržovat přísná pravidla bezpečnostni práce.
+
+# Hlavní rizika
+Při práci s Teslovou cívkou se mohou vyskytnout následující nebezpečí:
+
+- Úraz elektrickým proudem-vysoké napětí může způsobit vážná zranění nebo smrt.
+
+- Popáleniny-eletrické výboje a jiskry mohou zapálit hořlavé materiály nebo poškodit kůži.
+
+- Požár-jiskření a zahřívání okolních předmětů zvyšuje riziko vzniku požáru.
+
+- Elektromagnetické rušení-může negativně ovlivnit elektronická přistrojů(např.kardiostimulátorů)
+
+- Hluk a světelné efekty-mohou poškodit sluch nebo zrak při dlouhodobém vystavení.
+
+ # Zásady bezpečné práce
+Při manipulaci s Teslovou cívkou je nutné dodržovat tyto obecné zásady:
+
+- Zařízení smí obslouhovat **pouze kvalifikovaná a poučená osoba**.
+
+- Pracoviště musí být **jasně vymezené a zabezpečené proti vstupu nepovolaných osob**.
+
+- Je nutné udržovat **bezpečnost vzdálenost** mezi zařizením a osobami.
+
+- V okolí nesmí být**hořlavé nebo výbušné látky**.
+
+- Před použitím je třeba provést **kontrolu technického stavu zařízení**.
+
+ # Závěr bezpečnosti práce
+
+ - Dodržování zásad bezpečnosti práce je nezbytné pro ochranu zdraví osob i majetku. Správná organizace práce,odborný dohled a prevencerizik jsou klíčem bezpečnému využití tohoto zařízení.
+
+# Jak funguje ?
+- Teslova cívka napájená 12 V funguje tak, že nízké napětí je nejprve pomocí elektronického obvodu (např. tranzistoru ) přeměněno na vysokofrekvenční střídavý proud. Tento proud prochází primární cívkou a vytváří proměnné magnetické pole. Magnetické pole indukuje proud v sekundární cívce, která má mnohem více závitů, čímž se napětí výrazně zvýší. Díky rezonanci mezi cívkami může napětí dosahovat velmi vysokých hodnot i při nízkém vstupním napětí. Výsledkem jsou viditelné elektrické výboje, přestože zdroj má pouze 12 V.
+  
 # Co je pravidlo pravé ruky pro cívku
 - Pravidlo pravé ruky pro cívku slouží k určení směru magnetického pole a polarity cívky
 - U tesloví cívky je ze uchop cívku pravou rukou
@@ -37,8 +74,7 @@ Směr palce zároveň určuje severní pól cívky
 # Schema zapojeni Teslovi cívky 
 <img width="3072" height="4080" alt="image" src="https://github.com/user-attachments/assets/3f2a0b36-4412-4b06-bb21-f037c6998c79" />
 
-# Jak funguje ?
-- Teslova cívka napájená 12 V funguje tak, že nízké napětí je nejprve pomocí elektronického obvodu (např. tranzistoru ) přeměněno na vysokofrekvenční střídavý proud. Tento proud prochází primární cívkou a vytváří proměnné magnetické pole. Magnetické pole indukuje proud v sekundární cívce, která má mnohem více závitů, čímž se napětí výrazně zvýší. Díky rezonanci mezi cívkami může napětí dosahovat velmi vysokých hodnot i při nízkém vstupním napětí. Výsledkem jsou viditelné elektrické výboje, přestože zdroj má pouze 12 V.
+
 
 # Závěr 
 - projetk ještě není hotov a používal sem chatgtp k psaní  a  Inspirace na yotube od @rbelectrical je to DIY Projekt přidalsem tam vypínač  ON OFF ON místo tam byl obyčejný vypínač ON OFF a proč tam není?
