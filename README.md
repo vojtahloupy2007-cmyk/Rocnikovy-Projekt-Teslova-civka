@@ -74,8 +74,7 @@ Směr palce zároveň určuje severní pól cívky
 # Schema zapojeni Teslovi cívky 
 <img width="3072" height="4080" alt="image" src="https://github.com/user-attachments/assets/3f2a0b36-4412-4b06-bb21-f037c6998c79" />
 
+# Članek
+https://www.britannica.com/technology/Tesla-coil
 
 
-# Závěr 
-- projetk ještě není hotov a používal sem chatgtp k psaní  a  Inspirace na yotube od @rbelectrical je to DIY Projekt přidalsem tam vypínač  ON OFF ON místo tam byl obyčejný vypínač ON OFF a proč tam není?
-- Kvůli zapojeni do sítě když zapnu do sitě tak se vypínač bude poloze ze je v nefunkční stavu a svítí červené tlačítko a když dam do polohy ON tak se vypne červene světlo a cívka bude v provozů. 
